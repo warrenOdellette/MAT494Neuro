@@ -1,0 +1,238 @@
+column_num,donor_id,donor_name,age,gender,structure_id,structure_acronym,structure_name
+1,13058,H376.IIA.51,8 pcw,M,10268,Ocx,occipital neocortex
+2,13058,H376.IIA.51,8 pcw,M,10291,M1C-S1C,primary motor-sensory cortex (samples)
+3,13058,H376.IIA.51,8 pcw,M,10361,AMY,amygdaloid complex
+4,13058,H376.IIA.51,8 pcw,M,10550,MGE,medial ganglionic eminence
+5,13058,H376.IIA.51,8 pcw,M,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+6,13058,H376.IIA.51,8 pcw,M,10665,URL,upper (rostral) rhombic lip
+7,13058,H376.IIA.51,8 pcw,M,10552,CGE,caudal ganglionic eminence
+8,13058,H376.IIA.51,8 pcw,M,10391,DTH,dorsal thalamus
+9,13058,H376.IIA.51,8 pcw,M,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+10,13058,H376.IIA.51,8 pcw,M,10173,DFC,dorsolateral prefrontal cortex
+11,13058,H376.IIA.51,8 pcw,M,10194,OFC,orbital frontal cortex
+12,13058,H376.IIA.51,8 pcw,M,10551,LGE,lateral ganglionic eminence
+13,13058,H376.IIA.51,8 pcw,M,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+14,13058,H376.IIA.51,8 pcw,M,10294,HIP,hippocampus (hippocampal formation)
+15,13058,H376.IIA.51,8 pcw,M,10185,VFC,ventrolateral prefrontal cortex
+16,13058,H376.IIA.51,8 pcw,M,10208,PCx,parietal neocortex
+17,12833,H376.IIA.50,9 pcw,M,10173,DFC,dorsolateral prefrontal cortex
+18,12833,H376.IIA.50,9 pcw,M,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+19,12833,H376.IIA.50,9 pcw,M,10361,AMY,amygdaloid complex
+20,12833,H376.IIA.50,9 pcw,M,10391,DTH,dorsal thalamus
+21,12833,H376.IIA.50,9 pcw,M,10665,URL,upper (rostral) rhombic lip
+22,12833,H376.IIA.50,9 pcw,M,10551,LGE,lateral ganglionic eminence
+23,12833,H376.IIA.50,9 pcw,M,10291,M1C-S1C,primary motor-sensory cortex (samples)
+24,12833,H376.IIA.50,9 pcw,M,10550,MGE,medial ganglionic eminence
+25,12833,H376.IIA.50,9 pcw,M,10235,TCx,temporal neocortex
+26,12833,H376.IIA.50,9 pcw,M,10294,HIP,hippocampus (hippocampal formation)
+27,12833,H376.IIA.50,9 pcw,M,10268,Ocx,occipital neocortex
+28,12833,H376.IIA.50,9 pcw,M,10552,CGE,caudal ganglionic eminence
+29,12833,H376.IIA.50,9 pcw,M,10194,OFC,orbital frontal cortex
+30,12833,H376.IIA.50,9 pcw,M,10208,PCx,parietal neocortex
+31,12835,H376.IIB.50,12 pcw,F,10294,HIP,hippocampus (hippocampal formation)
+32,12835,H376.IIB.50,12 pcw,F,10391,DTH,dorsal thalamus
+33,12835,H376.IIB.50,12 pcw,F,10361,AMY,amygdaloid complex
+34,12835,H376.IIB.50,12 pcw,F,10236,A1C,primary auditory cortex (core)
+35,12835,H376.IIB.50,12 pcw,F,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+36,12835,H376.IIB.50,12 pcw,F,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+37,12835,H376.IIB.50,12 pcw,F,10333,STR,striatum
+38,12835,H376.IIB.50,12 pcw,F,10163,M1C,"primary motor cortex (area M1, area 4)"
+39,12835,H376.IIB.50,12 pcw,F,10173,DFC,dorsolateral prefrontal cortex
+40,12835,H376.IIB.50,12 pcw,F,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+41,12835,H376.IIB.50,12 pcw,F,10185,VFC,ventrolateral prefrontal cortex
+42,12835,H376.IIB.50,12 pcw,F,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+43,12835,H376.IIB.50,12 pcw,F,10225,IPC,posteroventral (inferior) parietal cortex
+44,12835,H376.IIB.50,12 pcw,F,10194,OFC,orbital frontal cortex
+45,12835,H376.IIB.50,12 pcw,F,10209,S1C,"primary somatosensory cortex (area S1, areas 3,1,2)"
+46,12960,H376.IIB.51,12 pcw,F,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+47,12960,H376.IIB.51,12 pcw,F,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+48,12960,H376.IIB.51,12 pcw,F,10236,A1C,primary auditory cortex (core)
+49,12960,H376.IIB.51,12 pcw,F,10656,CB,cerebellum
+50,12960,H376.IIB.51,12 pcw,F,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+51,12960,H376.IIB.51,12 pcw,F,10225,IPC,posteroventral (inferior) parietal cortex
+52,12960,H376.IIB.51,12 pcw,F,10209,S1C,"primary somatosensory cortex (area S1, areas 3,1,2)"
+53,12960,H376.IIB.51,12 pcw,F,10391,DTH,dorsal thalamus
+54,12960,H376.IIB.51,12 pcw,F,10294,HIP,hippocampus (hippocampal formation)
+55,12960,H376.IIB.51,12 pcw,F,10173,DFC,dorsolateral prefrontal cortex
+56,12960,H376.IIB.51,12 pcw,F,10194,OFC,orbital frontal cortex
+57,12960,H376.IIB.51,12 pcw,F,10163,M1C,"primary motor cortex (area M1, area 4)"
+58,12960,H376.IIB.51,12 pcw,F,10185,VFC,ventrolateral prefrontal cortex
+59,12960,H376.IIB.51,12 pcw,F,10361,AMY,amygdaloid complex
+60,12960,H376.IIB.51,12 pcw,F,10333,STR,striatum
+61,13060,H376.IIB.52,12 pcw,F,10361,AMY,amygdaloid complex
+62,13060,H376.IIB.52,12 pcw,F,10163,M1C,"primary motor cortex (area M1, area 4)"
+63,13060,H376.IIB.52,12 pcw,F,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+64,13060,H376.IIB.52,12 pcw,F,10185,VFC,ventrolateral prefrontal cortex
+65,13060,H376.IIB.52,12 pcw,F,10333,STR,striatum
+66,13060,H376.IIB.52,12 pcw,F,10657,CBC,cerebellar cortex
+67,13060,H376.IIB.52,12 pcw,F,10391,DTH,dorsal thalamus
+68,13060,H376.IIB.52,12 pcw,F,10173,DFC,dorsolateral prefrontal cortex
+69,13060,H376.IIB.52,12 pcw,F,10194,OFC,orbital frontal cortex
+70,13060,H376.IIB.52,12 pcw,F,10209,S1C,"primary somatosensory cortex (area S1, areas 3,1,2)"
+71,13060,H376.IIB.52,12 pcw,F,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+72,13060,H376.IIB.52,12 pcw,F,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+73,13060,H376.IIB.52,12 pcw,F,10294,HIP,hippocampus (hippocampal formation)
+74,13060,H376.IIB.52,12 pcw,F,10225,IPC,posteroventral (inferior) parietal cortex
+75,13060,H376.IIB.52,12 pcw,F,10236,A1C,primary auditory cortex (core)
+76,12820,H376.IIIA.50,13 pcw,M,10333,STR,striatum
+77,12820,H376.IIIA.50,13 pcw,M,10163,M1C,"primary motor cortex (area M1, area 4)"
+78,12820,H376.IIIA.50,13 pcw,M,10361,AMY,amygdaloid complex
+79,12820,H376.IIIA.50,13 pcw,M,10209,S1C,"primary somatosensory cortex (area S1, areas 3,1,2)"
+80,12820,H376.IIIA.50,13 pcw,M,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+81,12820,H376.IIIA.50,13 pcw,M,10236,A1C,primary auditory cortex (core)
+82,12820,H376.IIIA.50,13 pcw,M,10294,HIP,hippocampus (hippocampal formation)
+83,12820,H376.IIIA.50,13 pcw,M,10185,VFC,ventrolateral prefrontal cortex
+84,12820,H376.IIIA.50,13 pcw,M,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+85,12820,H376.IIIA.50,13 pcw,M,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+86,12820,H376.IIIA.50,13 pcw,M,10194,OFC,orbital frontal cortex
+87,12820,H376.IIIA.50,13 pcw,M,10225,IPC,posteroventral (inferior) parietal cortex
+88,12820,H376.IIIA.50,13 pcw,M,10173,DFC,dorsolateral prefrontal cortex
+89,12820,H376.IIIA.50,13 pcw,M,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+90,12834,H376.IIIA.51,13 pcw,F,10333,STR,striatum
+91,12834,H376.IIIA.51,13 pcw,F,10209,S1C,"primary somatosensory cortex (area S1, areas 3,1,2)"
+92,12834,H376.IIIA.51,13 pcw,F,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+93,12834,H376.IIIA.51,13 pcw,F,10361,AMY,amygdaloid complex
+94,12834,H376.IIIA.51,13 pcw,F,10225,IPC,posteroventral (inferior) parietal cortex
+95,12834,H376.IIIA.51,13 pcw,F,10656,CB,cerebellum
+96,12834,H376.IIIA.51,13 pcw,F,10173,DFC,dorsolateral prefrontal cortex
+97,12834,H376.IIIA.51,13 pcw,F,10194,OFC,orbital frontal cortex
+98,12834,H376.IIIA.51,13 pcw,F,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+99,12834,H376.IIIA.51,13 pcw,F,10236,A1C,primary auditory cortex (core)
+100,12834,H376.IIIA.51,13 pcw,F,10294,HIP,hippocampus (hippocampal formation)
+101,12834,H376.IIIA.51,13 pcw,F,10163,M1C,"primary motor cortex (area M1, area 4)"
+102,12834,H376.IIIA.51,13 pcw,F,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+103,12834,H376.IIIA.51,13 pcw,F,10398,MD,mediodorsal nucleus of thalamus
+104,12834,H376.IIIA.51,13 pcw,F,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+105,12834,H376.IIIA.51,13 pcw,F,10185,VFC,ventrolateral prefrontal cortex
+106,12888,H376.IIIA.52,13 pcw,M,10209,S1C,"primary somatosensory cortex (area S1, areas 3,1,2)"
+107,12888,H376.IIIA.52,13 pcw,M,10173,DFC,dorsolateral prefrontal cortex
+108,12888,H376.IIIA.52,13 pcw,M,10656,CB,cerebellum
+109,12888,H376.IIIA.52,13 pcw,M,10361,AMY,amygdaloid complex
+110,12888,H376.IIIA.52,13 pcw,M,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+111,12888,H376.IIIA.52,13 pcw,M,10294,HIP,hippocampus (hippocampal formation)
+112,12888,H376.IIIA.52,13 pcw,M,10225,IPC,posteroventral (inferior) parietal cortex
+113,12888,H376.IIIA.52,13 pcw,M,10236,A1C,primary auditory cortex (core)
+114,12888,H376.IIIA.52,13 pcw,M,10185,VFC,ventrolateral prefrontal cortex
+115,12888,H376.IIIA.52,13 pcw,M,10333,STR,striatum
+116,12888,H376.IIIA.52,13 pcw,M,10194,OFC,orbital frontal cortex
+117,12888,H376.IIIA.52,13 pcw,M,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+118,12888,H376.IIIA.52,13 pcw,M,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+119,12888,H376.IIIA.52,13 pcw,M,10163,M1C,"primary motor cortex (area M1, area 4)"
+120,12287,H376.IIIB.50,16 pcw,M,10185,VFC,ventrolateral prefrontal cortex
+121,12287,H376.IIIB.50,16 pcw,M,10194,OFC,orbital frontal cortex
+122,12287,H376.IIIB.50,16 pcw,M,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+123,12287,H376.IIIB.50,16 pcw,M,10173,DFC,dorsolateral prefrontal cortex
+124,12287,H376.IIIB.50,16 pcw,M,10225,IPC,posteroventral (inferior) parietal cortex
+125,12287,H376.IIIB.50,16 pcw,M,10236,A1C,primary auditory cortex (core)
+126,12287,H376.IIIB.50,16 pcw,M,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+127,12287,H376.IIIB.50,16 pcw,M,10333,STR,striatum
+128,12287,H376.IIIB.50,16 pcw,M,10398,MD,mediodorsal nucleus of thalamus
+129,12287,H376.IIIB.50,16 pcw,M,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+130,12837,H376.IIIB.51,16 pcw,M,10185,VFC,ventrolateral prefrontal cortex
+131,12837,H376.IIIB.51,16 pcw,M,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+132,12837,H376.IIIB.51,16 pcw,M,10225,IPC,posteroventral (inferior) parietal cortex
+133,12837,H376.IIIB.51,16 pcw,M,10236,A1C,primary auditory cortex (core)
+134,12837,H376.IIIB.51,16 pcw,M,10398,MD,mediodorsal nucleus of thalamus
+135,12837,H376.IIIB.51,16 pcw,M,10361,AMY,amygdaloid complex
+136,12837,H376.IIIB.51,16 pcw,M,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+137,12837,H376.IIIB.51,16 pcw,M,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+138,12837,H376.IIIB.51,16 pcw,M,10657,CBC,cerebellar cortex
+139,12837,H376.IIIB.51,16 pcw,M,10294,HIP,hippocampus (hippocampal formation)
+140,12837,H376.IIIB.51,16 pcw,M,10333,STR,striatum
+141,12837,H376.IIIB.51,16 pcw,M,10194,OFC,orbital frontal cortex
+142,12837,H376.IIIB.51,16 pcw,M,10173,DFC,dorsolateral prefrontal cortex
+143,12837,H376.IIIB.51,16 pcw,M,10163,M1C,"primary motor cortex (area M1, area 4)"
+144,12837,H376.IIIB.51,16 pcw,M,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+145,12837,H376.IIIB.51,16 pcw,M,10209,S1C,"primary somatosensory cortex (area S1, areas 3,1,2)"
+146,12879,H376.IIIB.52,16 pcw,M,10294,HIP,hippocampus (hippocampal formation)
+147,12879,H376.IIIB.52,16 pcw,M,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+148,12879,H376.IIIB.52,16 pcw,M,10173,DFC,dorsolateral prefrontal cortex
+149,12879,H376.IIIB.52,16 pcw,M,10225,IPC,posteroventral (inferior) parietal cortex
+150,12879,H376.IIIB.52,16 pcw,M,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+151,12879,H376.IIIB.52,16 pcw,M,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+152,12879,H376.IIIB.52,16 pcw,M,10398,MD,mediodorsal nucleus of thalamus
+153,12879,H376.IIIB.52,16 pcw,M,10333,STR,striatum
+154,12879,H376.IIIB.52,16 pcw,M,10291,M1C-S1C,primary motor-sensory cortex (samples)
+155,12879,H376.IIIB.52,16 pcw,M,10236,A1C,primary auditory cortex (core)
+156,12879,H376.IIIB.52,16 pcw,M,10185,VFC,ventrolateral prefrontal cortex
+157,12879,H376.IIIB.52,16 pcw,M,10361,AMY,amygdaloid complex
+158,12879,H376.IIIB.52,16 pcw,M,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+159,12880,H376.IIIB.53,17 pcw,F,10333,STR,striatum
+160,12880,H376.IIIB.53,17 pcw,F,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+161,12880,H376.IIIB.53,17 pcw,F,10398,MD,mediodorsal nucleus of thalamus
+162,12880,H376.IIIB.53,17 pcw,F,10236,A1C,primary auditory cortex (core)
+163,12880,H376.IIIB.53,17 pcw,F,10294,HIP,hippocampus (hippocampal formation)
+164,12880,H376.IIIB.53,17 pcw,F,10173,DFC,dorsolateral prefrontal cortex
+165,12880,H376.IIIB.53,17 pcw,F,10185,VFC,ventrolateral prefrontal cortex
+166,12880,H376.IIIB.53,17 pcw,F,10225,IPC,posteroventral (inferior) parietal cortex
+167,12880,H376.IIIB.53,17 pcw,F,10291,M1C-S1C,primary motor-sensory cortex (samples)
+168,12880,H376.IIIB.53,17 pcw,F,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+169,12880,H376.IIIB.53,17 pcw,F,10657,CBC,cerebellar cortex
+170,12880,H376.IIIB.53,17 pcw,F,10194,OFC,orbital frontal cortex
+171,12880,H376.IIIB.53,17 pcw,F,10361,AMY,amygdaloid complex
+172,12880,H376.IIIB.53,17 pcw,F,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+173,12885,H376.IV.53,19 pcw,F,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+174,12885,H376.IV.53,19 pcw,F,10225,IPC,posteroventral (inferior) parietal cortex
+175,12885,H376.IV.53,19 pcw,F,10291,M1C-S1C,primary motor-sensory cortex (samples)
+176,12885,H376.IV.53,19 pcw,F,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+177,12885,H376.IV.53,19 pcw,F,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+178,12885,H376.IV.53,19 pcw,F,10294,HIP,hippocampus (hippocampal formation)
+179,12885,H376.IV.53,19 pcw,F,10236,A1C,primary auditory cortex (core)
+180,12885,H376.IV.53,19 pcw,F,10398,MD,mediodorsal nucleus of thalamus
+181,12885,H376.IV.53,19 pcw,F,10185,VFC,ventrolateral prefrontal cortex
+182,12885,H376.IV.53,19 pcw,F,10333,STR,striatum
+183,12885,H376.IV.53,19 pcw,F,10173,DFC,dorsolateral prefrontal cortex
+184,12365,H376.IV.51,21 pcw,F,10657,CBC,cerebellar cortex
+185,12365,H376.IV.51,21 pcw,F,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+186,12886,H376.IV.54,21 pcw,M,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+187,12886,H376.IV.54,21 pcw,M,10163,M1C,"primary motor cortex (area M1, area 4)"
+188,12886,H376.IV.54,21 pcw,M,10333,STR,striatum
+189,12886,H376.IV.54,21 pcw,M,10294,HIP,hippocampus (hippocampal formation)
+190,12886,H376.IV.54,21 pcw,M,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+191,12886,H376.IV.54,21 pcw,M,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+192,12886,H376.IV.54,21 pcw,M,10361,AMY,amygdaloid complex
+193,12886,H376.IV.54,21 pcw,M,10185,VFC,ventrolateral prefrontal cortex
+194,12886,H376.IV.54,21 pcw,M,10194,OFC,orbital frontal cortex
+195,12886,H376.IV.54,21 pcw,M,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+196,12886,H376.IV.54,21 pcw,M,10209,S1C,"primary somatosensory cortex (area S1, areas 3,1,2)"
+197,12886,H376.IV.54,21 pcw,M,10657,CBC,cerebellar cortex
+198,12886,H376.IV.54,21 pcw,M,10225,IPC,posteroventral (inferior) parietal cortex
+199,12886,H376.IV.54,21 pcw,M,10173,DFC,dorsolateral prefrontal cortex
+200,12288,H376.IV.50,24 pcw,M,10294,HIP,hippocampus (hippocampal formation)
+201,12288,H376.IV.50,24 pcw,M,10361,AMY,amygdaloid complex
+202,12288,H376.IV.50,24 pcw,M,10173,DFC,dorsolateral prefrontal cortex
+203,12288,H376.IV.50,24 pcw,M,10209,S1C,"primary somatosensory cortex (area S1, areas 3,1,2)"
+204,12288,H376.IV.50,24 pcw,M,10398,MD,mediodorsal nucleus of thalamus
+205,12288,H376.IV.50,24 pcw,M,10333,STR,striatum
+206,12288,H376.IV.50,24 pcw,M,10236,A1C,primary auditory cortex (core)
+207,12288,H376.IV.50,24 pcw,M,10225,IPC,posteroventral (inferior) parietal cortex
+208,12288,H376.IV.50,24 pcw,M,10194,OFC,orbital frontal cortex
+209,12288,H376.IV.50,24 pcw,M,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+210,12288,H376.IV.50,24 pcw,M,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+211,12288,H376.IV.50,24 pcw,M,10185,VFC,ventrolateral prefrontal cortex
+212,12288,H376.IV.50,24 pcw,M,10163,M1C,"primary motor cortex (area M1, area 4)"
+213,12288,H376.IV.50,24 pcw,M,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+214,12288,H376.IV.50,24 pcw,M,10657,CBC,cerebellar cortex
+215,12288,H376.IV.50,24 pcw,M,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+216,12948,H376.V.51,25 pcw,F,10236,A1C,primary auditory cortex (core)
+217,12949,H376.V.52,26 pcw,F,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+218,12949,H376.V.52,26 pcw,F,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+219,12949,H376.V.52,26 pcw,F,10173,DFC,dorsolateral prefrontal cortex
+220,12295,H376.V.50,35 pcw,F,10657,CBC,cerebellar cortex
+221,12295,H376.V.50,35 pcw,F,10185,VFC,ventrolateral prefrontal cortex
+222,263195015,H376.V.53,37 pcw,M,10236,A1C,primary auditory cortex (core)
+223,263195015,H376.V.53,37 pcw,M,10194,OFC,orbital frontal cortex
+224,263195015,H376.V.53,37 pcw,M,10361,AMY,amygdaloid complex
+225,263195015,H376.V.53,37 pcw,M,10269,V1C,"primary visual cortex (striate cortex, area V1/17)"
+226,263195015,H376.V.53,37 pcw,M,10278,MFC,anterior (rostral) cingulate (medial prefrontal) cortex
+227,263195015,H376.V.53,37 pcw,M,10398,MD,mediodorsal nucleus of thalamus
+228,263195015,H376.V.53,37 pcw,M,10657,CBC,cerebellar cortex
+229,263195015,H376.V.53,37 pcw,M,10333,STR,striatum
+230,263195015,H376.V.53,37 pcw,M,10225,IPC,posteroventral (inferior) parietal cortex
+231,263195015,H376.V.53,37 pcw,M,10252,ITC,"inferolateral temporal cortex (area TEv, area 20)"
+232,263195015,H376.V.53,37 pcw,M,10209,S1C,"primary somatosensory cortex (area S1, areas 3,1,2)"
+233,263195015,H376.V.53,37 pcw,M,10173,DFC,dorsolateral prefrontal cortex
+234,263195015,H376.V.53,37 pcw,M,10243,STC,posterior (caudal) superior temporal cortex (area 22c)
+235,263195015,H376.V.53,37 pcw,M,10163,M1C,"primary motor cortex (area M1, area 4)"
+236,263195015,H376.V.53,37 pcw,M,10185,VFC,ventrolateral prefrontal cortex
+237,263195015,H376.V.53,37 pcw,M,10294,HIP,hippocampus (hippocampal formation)
