@@ -6,6 +6,6 @@ Contains only the modified dataset to and the notebooks that generate the graphs
 
 
 
-Original dataset and notebooks that modified the original dataset can be made available. (original expression matrix dataset file is too large to upload)
+Original dataset can be made available or search through the resources (view presentation referrences for details). (original expression matrix dataset file is too large to upload)
 
 
