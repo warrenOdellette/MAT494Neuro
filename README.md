@@ -6,6 +6,9 @@ Contains only the modified dataset to and the notebooks that generate the graphs
 
 
 
-Original dataset can be made available or search through the resources (view presentation referrences for details). (original expression matrix dataset file is too large to upload)
+Original dataset can be made available or search through the resources "RNA-Seq Gencode v10 summarized to genes " from http://www.brainspan.org/static/download.html
 
+
+GeneLists.txt has all the genes that relate to neurogenesis according to from AmiGO2 (dataextraction done by other group member)
+http://amigo.geneontology.org/amigo/search/bioentity?q=neurogenesis 
 
